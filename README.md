@@ -1,3 +1,5 @@
+[📌itch.io](https://emretahtali.itch.io/verlet-cat)
+
 this is a verlet integration experiment i've made in 2021.
 
 i liked the concept and realized that it's quite addictive to play around with it, so i turned it into a little cat playing with a rope!
