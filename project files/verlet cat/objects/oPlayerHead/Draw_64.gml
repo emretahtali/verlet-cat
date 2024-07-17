@@ -1,0 +1,10 @@
+/*draw_set_font(font0);
+draw_set_color(make_color_rgb(250, 85, 110));
+draw_text(30, 30, "vsp: " + string(oPlayer0.vsp));
+draw_text(30, 60, "x_scaletarget: " + string(scaletrX));
+draw_text(30, 90, "x_scale: " + string(image_xscale));
+draw_text(30, 120, "y_scaletarget: " + string(scaletrY));
+draw_text(30, 150, "y_scale: " + string(image_yscale));
+/*draw_text(30, 150, "hsp: " + string(oPlayer0.hsp));
+draw_text(30, 180, "y_scaletarget: " + string(scaletrY));
+draw_text(30, 210, "y_scale: " + string(image_yscale));

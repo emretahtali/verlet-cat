@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sTitle","order":5,"path":"sprites/sTitle/sTitle.yy",},
+    {"name":"rSetup","order":1,"path":"rooms/rSetup/rSetup.yy",},
+    {"name":"sPlayerR","order":4,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"sVerlet","order":6,"path":"sprites/sVerlet/sVerlet.yy",},
+    {"name":"sPlayer2","order":1,"path":"sprites/sPlayer2/sPlayer2.yy",},
+    {"name":"sCollisionSprite","order":2,"path":"sprites/sCollisionSprite/sCollisionSprite.yy",},
+    {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oPlayerHead","order":1,"path":"objects/oPlayerHead/oPlayerHead.yy",},
+    {"name":"rVerletRope","order":2,"path":"rooms/rVerletRope/rVerletRope.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+  ],
+}
